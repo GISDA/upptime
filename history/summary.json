@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/visorgeo.ambientebogota.gov.co.ico",
     "slug": "visor-geografico-ambiental",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 2041,
-    "timeDay": 1762,
-    "timeWeek": 2224,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2039,
+    "timeDay": 1881,
+    "timeWeek": 2260,
     "timeMonth": 2074,
-    "timeYear": 2041,
-    "dailyMinutesDown": {
-      "2025-01-31": 9
-    }
+    "timeYear": 2039,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Servidor VGA Linux (Geonetwork)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 479,
-    "timeWeek": 516,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "time": 526,
+    "timeDay": 444,
+    "timeWeek": 509,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 78,
-    "timeWeek": 88,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 84,
+    "timeDay": 79,
+    "timeWeek": 90,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   }
 ]
