@@ -4,19 +4,19 @@
     "url": "https://visorgeo.ambientebogota.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/visorgeo.ambientebogota.gov.co.ico",
     "slug": "visor-geografico-ambiental",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2021,
-    "timeDay": 1804,
-    "timeWeek": 2002,
-    "timeMonth": 2081,
-    "timeYear": 2021,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 2022,
+    "timeDay": 1952,
+    "timeWeek": 2013,
+    "timeMonth": 2082,
+    "timeYear": 2022,
     "dailyMinutesDown": {
-      "2025-02-11": 1
+      "2025-02-11": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gis.ambientebogota.gov.co/geonetwork/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 637,
-    "timeWeek": 514,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 514,
+    "timeDay": 546,
+    "timeWeek": 507,
+    "timeMonth": 514,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2025-02-11": 1
+      "2025-02-11": 24
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://gis.ambientebogota.gov.co/pygeoapi/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-pygeoapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 110,
-    "timeWeek": 87,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 84,
+    "timeDay": 103,
+    "timeWeek": 88,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {
-      "2025-02-11": 0
+      "2025-02-11": 24
     }
   }
 ]
