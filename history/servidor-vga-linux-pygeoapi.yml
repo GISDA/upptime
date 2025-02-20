@@ -1,7 +1,7 @@
-url: https://gis.ambientebogota.gov.co/pygeoapi/
+url: gis.ambientebogota.gov.co/pygeoapi/
 status: up
 code: 200
-responseTime: 81
-lastUpdated: 2025-02-19T23:16:30.321Z
+responseTime: 216
+lastUpdated: 2025-02-20T12:06:13.196Z
 startTime: 2025-01-17T19:35:44.985Z
 generator: Upptime <https://github.com/upptime/upptime>
