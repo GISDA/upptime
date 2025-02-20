@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Visor Geográfico Ambiental
-    url: https://visorgeo.ambientebogota.gov.co
+    url: visorgeo.ambientebogota.gov.co
   - name: Servidor VGA Linux (Geonetwork)
-    url: https://gis.ambientebogota.gov.co/geonetwork/
+    url: gis.ambientebogota.gov.co/geonetwork/
   - name: Servidor VGA Linux (pygeoapi)
-    url: https://gis.ambientebogota.gov.co/pygeoapi/
+    url: gis.ambientebogota.gov.co/pygeoapi/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
