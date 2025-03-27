@@ -4,7 +4,7 @@
     "url": "https://visorgeo.ambientebogota.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/visorgeo.ambientebogota.gov.co.ico",
     "slug": "visor-geografico-ambiental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "91.16%",
     "uptimeWeek": "98.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 2289,
     "timeYear": 2307,
     "dailyMinutesDown": {
+      "2025-03-27": 0,
       "2025-03-26": 128,
       "2025-03-25": 21,
       "2025-02-25": 30,
