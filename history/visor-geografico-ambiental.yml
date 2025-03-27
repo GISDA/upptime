@@ -1,7 +1,7 @@
 url: https://visorgeo.ambientebogota.gov.co
-status: up
-code: 200
-responseTime: 1623
-lastUpdated: 2025-03-27T05:30:52.992Z
+status: down
+code: 502
+responseTime: 305
+lastUpdated: 2025-03-27T14:26:10.714Z
 startTime: 2024-12-10T04:48:38.100Z
 generator: Upptime <https://github.com/upptime/upptime>
