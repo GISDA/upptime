@@ -1,7 +1,7 @@
 url: https://gis.ambientebogota.gov.co/geonetwork/
-status: up
-code: 200
-responseTime: 428
-lastUpdated: 2025-09-08T23:18:28.094Z
+status: down
+code: 503
+responseTime: 367
+lastUpdated: 2025-09-09T16:49:34.490Z
 startTime: 2025-01-17T19:35:44.057Z
 generator: Upptime <https://github.com/upptime/upptime>
