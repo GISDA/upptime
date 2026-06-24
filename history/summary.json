@@ -76,17 +76,17 @@
     "url": "https://gis.ambientebogota.gov.co/geonetwork/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
-    "status": "down",
-    "uptime": "96.66%",
-    "uptimeDay": "79.17%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.08%",
+    "status": "up",
+    "uptime": "96.65%",
+    "uptimeDay": "76.87%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.07%",
     "time": 524,
-    "timeDay": 679,
-    "timeWeek": 814,
-    "timeMonth": 750,
-    "timeYear": 537,
+    "timeDay": 725,
+    "timeWeek": 809,
+    "timeMonth": 751,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-07-11": 20,
       "2025-08-02": 65,
@@ -99,7 +99,7 @@
       "2026-05-04": 1440,
       "2026-05-03": 1430,
       "2026-06-23": 65,
-      "2026-06-24": 235
+      "2026-06-24": 268
     }
   },
   {
