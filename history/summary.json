@@ -13,7 +13,7 @@
     "time": 2425,
     "timeDay": 2007,
     "timeWeek": 2038,
-    "timeMonth": 3679,
+    "timeMonth": 3735,
     "timeYear": 2488,
     "dailyMinutesDown": {
       "2025-07-07": 21,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
     "status": "down",
-    "uptime": "95.70%",
-    "uptimeDay": "1.81%",
-    "uptimeWeek": "23.50%",
-    "uptimeMonth": "81.50%",
-    "uptimeYear": "97.59%",
+    "uptime": "95.68%",
+    "uptimeDay": "1.74%",
+    "uptimeWeek": "21.48%",
+    "uptimeMonth": "81.04%",
+    "uptimeYear": "97.56%",
     "time": 758,
     "timeDay": 3331,
     "timeWeek": 13439,
-    "timeMonth": 4277,
+    "timeMonth": 4380,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2025-07-11": 20,
@@ -107,7 +107,7 @@
       "2026-07-01": 1031,
       "2026-07-02": 976,
       "2026-07-03": 1414,
-      "2026-07-04": 0
+      "2026-07-04": 204
     }
   },
   {
@@ -122,7 +122,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 120,
-    "timeDay": 365,
+    "timeDay": 393,
     "timeWeek": 339,
     "timeMonth": 299,
     "timeYear": 124,
