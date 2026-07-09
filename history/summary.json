@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/visorgeo.ambientebogota.gov.co.ico",
     "slug": "visor-geografico-ambiental",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -73,15 +73,15 @@
     "url": "https://gis.ambientebogota.gov.co/geonetwork/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
-    "status": "up",
-    "uptime": "95.03%",
-    "uptimeDay": "38.46%",
-    "uptimeWeek": "21.94%",
+    "status": "down",
+    "uptime": "95.04%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "28.61%",
     "uptimeMonth": "68.96%",
     "uptimeYear": "96.55%",
     "time": 887,
-    "timeDay": 634,
-    "timeWeek": 6870,
+    "timeDay": 651,
+    "timeWeek": 7429,
     "timeMonth": 5756,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -109,7 +109,8 @@
       "2026-07-05": 1019,
       "2026-07-06": 845,
       "2026-07-07": 1316,
-      "2026-07-08": 1115
+      "2026-07-08": 1115,
+      "2026-07-09": 0
     }
   },
   {
