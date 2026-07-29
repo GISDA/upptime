@@ -14,7 +14,7 @@
     "timeDay": 2000,
     "timeWeek": 2099,
     "timeMonth": 2124,
-    "timeYear": 2501,
+    "timeYear": 2499,
     "dailyMinutesDown": {
       "2025-07-31": 633,
       "2025-08-02": 65,
@@ -71,17 +71,17 @@
     "url": "https://gis.ambientebogota.gov.co/geonetwork/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
-    "status": "down",
+    "status": "up",
     "uptime": "91.96%",
-    "uptimeDay": "95.16%",
+    "uptimeDay": "91.24%",
     "uptimeWeek": "15.44%",
-    "uptimeMonth": "17.21%",
-    "uptimeYear": "91.58%",
-    "time": 1446,
-    "timeDay": 27085,
-    "timeWeek": 16532,
-    "timeMonth": 14126,
-    "timeYear": 1837,
+    "uptimeMonth": "17.08%",
+    "uptimeYear": "91.57%",
+    "time": 1447,
+    "timeDay": 20541,
+    "timeWeek": 13927,
+    "timeMonth": 13737,
+    "timeYear": 1838,
     "dailyMinutesDown": {
       "2025-08-02": 65,
       "2025-08-01": 396,
@@ -127,7 +127,7 @@
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1427,
-      "2026-07-29": 70
+      "2026-07-29": 127
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeDay": 261,
     "timeWeek": 331,
     "timeMonth": 411,
-    "timeYear": 150,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-08-02": 65,
       "2025-08-01": 396,
