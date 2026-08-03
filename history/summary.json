@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/visorgeo.ambientebogota.gov.co.ico",
     "slug": "visor-geografico-ambiental",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.72%",
-    "time": 2429,
-    "timeDay": 1234,
-    "timeWeek": 1822,
-    "timeMonth": 2073,
-    "timeYear": 2503,
+    "uptime": "98.56%",
+    "uptimeDay": "55.02%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.60%",
+    "time": 2426,
+    "timeDay": 374,
+    "timeWeek": 1648,
+    "timeMonth": 2020,
+    "timeYear": 2500,
     "dailyMinutesDown": {
-      "2025-08-03": 22,
       "2025-08-10": 19,
       "2025-08-22": 22,
       "2025-08-30": 19,
@@ -61,7 +60,8 @@
       "2026-05-05": 302,
       "2026-05-04": 1440,
       "2026-05-03": 1430,
-      "2026-08-02": 1
+      "2026-08-03": 210,
+      "2026-08-02": 438
     }
   },
   {
@@ -70,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
     "status": "down",
-    "uptime": "92.01%",
-    "uptimeDay": "99.97%",
+    "uptime": "91.94%",
+    "uptimeDay": "55.03%",
     "uptimeWeek": "68.16%",
-    "uptimeMonth": "23.66%",
-    "uptimeYear": "91.65%",
+    "uptimeMonth": "23.35%",
+    "uptimeYear": "91.53%",
     "time": 1449,
-    "timeDay": 619,
-    "timeWeek": 8630,
-    "timeMonth": 10604,
+    "timeDay": 331,
+    "timeWeek": 7876,
+    "timeMonth": 10790,
     "timeYear": 1833,
     "dailyMinutesDown": {
       "2025-09-09": 34,
@@ -124,7 +124,8 @@
       "2026-07-25": 1440,
       "2026-07-24": 1427,
       "2026-07-29": 127,
-      "2026-08-02": 0
+      "2026-08-03": 210,
+      "2026-08-02": 438
     }
   },
   {
@@ -133,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-pygeoapi",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.36%",
+    "uptimeDay": "55.05%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.10%",
     "time": 141,
-    "timeDay": 567,
-    "timeWeek": 332,
-    "timeMonth": 415,
+    "timeDay": 0,
+    "timeWeek": 345,
+    "timeMonth": 417,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-09-24": 32,
@@ -151,7 +152,8 @@
       "2026-05-04": 1440,
       "2026-05-03": 1430,
       "2026-07-15": 60,
-      "2026-08-02": 0
+      "2026-08-03": 210,
+      "2026-08-02": 437
     }
   }
 ]
