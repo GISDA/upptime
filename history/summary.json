@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-geonetwork",
     "status": "up",
-    "uptime": "92.35%",
+    "uptime": "92.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -126,9 +126,9 @@
     "url": "https://gis.ambientebogota.gov.co/pygeoapi/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-pygeoapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
@@ -146,7 +146,8 @@
       "2026-05-03": 1430,
       "2026-07-15": 60,
       "2026-08-03": 1080,
-      "2026-08-02": 437
+      "2026-08-02": 437,
+      "2026-09-11": 0
     }
   }
 ]
