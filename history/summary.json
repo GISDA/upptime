@@ -14,7 +14,7 @@
     "timeDay": 2177,
     "timeWeek": 2075,
     "timeMonth": 2256,
-    "timeYear": 2483,
+    "timeYear": 2485,
     "dailyMinutesDown": {
       "2025-11-16": 23,
       "2025-11-18": 24,
@@ -56,7 +56,7 @@
     "timeDay": 838,
     "timeWeek": 698,
     "timeMonth": 726,
-    "timeYear": 1903,
+    "timeYear": 1907,
     "dailyMinutesDown": {
       "2026-02-15": 58,
       "2026-02-20": 55,
@@ -108,17 +108,17 @@
     "url": "https://gis.ambientebogota.gov.co/pygeoapi/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.ambientebogota.gov.co.ico",
     "slug": "servidor-vga-linux-pygeoapi",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "57.02%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.80%",
     "time": 188,
-    "timeDay": 300,
-    "timeWeek": 284,
-    "timeMonth": 329,
-    "timeYear": 220,
+    "timeDay": 306,
+    "timeWeek": 287,
+    "timeMonth": 328,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2026-02-15": 57,
       "2026-02-20": 53,
@@ -129,7 +129,8 @@
       "2026-08-03": 1080,
       "2026-08-02": 437,
       "2026-09-11": 113,
-      "2026-11-12": 0
+      "2026-11-13": 161,
+      "2026-11-12": 458
     }
   }
 ]
